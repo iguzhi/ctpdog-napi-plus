@@ -6,3 +6,4 @@ con
 *.con
 package-lock.json
 .vscode
+.lock
